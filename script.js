@@ -23,7 +23,6 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar.png")
     }
 
-
     
     
     if (html.classList.contains('light')){
